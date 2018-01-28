@@ -1,0 +1,106 @@
+This document details the changes made from vanilla Fates. 
+If you do not want to be spoiled and want to be surprised, do not scroll down, and close this file immediately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents:
+Ctrl-F the string next to the list item (including brackets) to jump to that section.
+
+Character Changes [CHARA]
+Class Changes [CLASS]
+Chapter Changes [CHAPT]
+
+
+
+
+Character Changes: [CHAR]
+
+Odin can now wield Missiletainn.
+Mozu gains +20% to all growth rates.
+Kana, Siegbert, and Forrest can now wield Yato, Siegfried, and Brynhildr respectively. (Shiro and Kiragi can also wield Raijinto and Fujin Yumi respectively if they are hacked into the game.)
+
+
+
+Class Changes: [CLASS]
+
+The villager has had its bases and growths boosted to match that of the Spear Fighter.
+Nohr Noble can now attain up to S rank with stones. (Hoshido Noble can also attain S rank if hacked into the game.)
+
+
+Chapter Changes: [CHAP]
+
+Chapter 0-5:
+* No changes.
+
+Chapter 6: Embrace the Dark
+* Ryoma now drops an Arms Scroll and a Heart Seal when defeated. You must defeat Ryoma with Corrin, Jakob, or Felicia to keep these items after the chapter.
+
+Chapter 7: A Dragon's Decree
+* Some of the faceless have Strong Riposte.
+* The Poison Strike faceless have Savage Blow instead.
+* The lead faceless of the pairs have Dual Striker. The back faceless have Aggressor.
+* One of the faceless near the boss has Quick Draw and Pass. The two faceless directly under the player's starting position also have Pass.
+* The boss has Strong Riposte, Poison Strike, and Immobilize.
+
+Chapter 1x: Tragic Start
+* Some enemies have been added to the map.
+* The enemies now all have skills.
+* The enemies no longer get any stat boost from Hard to Lunatic.
+* The enemies no longer wait for you to come to them; they will start moving toward Mozu and your party after a certain number of turns.
+* I basically just copied Kobazco's 1x from his Birthright mod and changed some values around.
+
+Chapter 8: Cold Reception
+* Kilma carries Fimbulvetr instead of Nosferatu. Has Sol.
+* Flora carries a silver dagger and has Staff Savant and Seal Strength.
+* The Quick Draw fighters have Aggressor instead.
+* Some fighters carry silver axes.
+* The Fire mages have Seal Resistance.
+
+Chapter 9: Another Trial
+* The spear fighters all have Seal Defense. The three spear fighters near the start of the map carry guard and steel naginata.
+* The two archers at the start of the map have Dual Striker; the rest have Quick Draw.
+* The samurai pair near the start of the map has been changed; the lead unit now has a silver katana and Strong Riposte, and the rear unit has a steel katti and Quick Draw.
+* The heart seal has been moved from Haitaka to one of the samurai near the start of the map.
+* The shrine maiden has Staff Savant and carries a sun festal instead of a bloom festal.
+* The units with Quick Draw in vanilla now have Aggressor instead.
+* Added a shrine maiden with Entrap and another with Freeze.
+* Haitaka now has Bold Stance and is paired up with a samurai.
+* The iron katana and naginata have been replaced with other weapons.
