@@ -85,6 +85,7 @@ Chapter 1x: Tragic Start
 * The enemies now all have skills.
 * The enemies no longer get any stat boost from Hard to Lunatic.
 * The enemies no longer wait for you to come to them; they will start moving toward Mozu and your party after a certain number of turns.
+* Mozu carries a raider naginata instead of a brass one.
 * I basically just copied Kobazco's 1x from his Birthright mod and changed some values around.
 
 Chapter 8: Cold Reception
@@ -93,6 +94,11 @@ Chapter 8: Cold Reception
 * The Quick Draw fighters have Aggressor instead.
 * Some fighters carry silver axes.
 * The Fire mages have Seal Resistance.
+
+Invasion 1:
+* One of the mercenaries has a wyrmslayer. The mercenaries with no skills have been given Quick Draw. The boss carries a silver katti.
+* The wyvern riders have Lunge. The iron axe wyvern has been given a silver axe and Darting Blow. The lone steel axe wyvern has been given a tomohawk and Savage Blow. The paired-up wyverns have been given Winged Shield and Pass, and one of them has a hammer.
+* The two cavaliers without Elbow Room have it now. The cavaliers that already had Elbow Room now instead have Trample. One of the cavaliers has a beast killer. The Javelin cav now carries a spear, and has Seal Strength.
 
 Chapter 9: Another Trial
 * The spear fighters all have Seal Defense. The three spear fighters near the start of the map carry guard and steel naginata.
