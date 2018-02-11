@@ -110,3 +110,9 @@ Chapter 9: Another Trial
 * Added a shrine maiden with Entrap and another with Freeze.
 * Haitaka now has Bold Stance and is paired up with a samurai.
 * The iron katana and naginata have been replaced with other weapons.
+
+Chapter 10: Unhappy Reunion
+* The archers now have Pass. The Quick Draw archers have Aggressor instead.
+* The sky knights have Pass and Movement +1 and all carry steel naginata. They also all ignore the player and try to go straight for the capture point.
+* Hinata and Oboro carry silver weapons.
+* Takumi no longer drops his elixir when defeated. He drops a heart seal instead.
