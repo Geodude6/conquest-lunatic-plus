@@ -116,3 +116,14 @@ Chapter 10: Unhappy Reunion
 * The sky knights have Pass and Movement +1 and all carry steel naginata. They also all ignore the player and try to go straight for the capture point.
 * Hinata and Oboro carry silver weapons.
 * Takumi no longer drops his elixir when defeated. He drops a heart seal instead.
+
+Chapter 11: Rainbow Sage
+* Setsuna now carries a Setsuna's Yumi and has Point Blank, Counter, and Hit/Avo +10.
+* The enemies in Setsuna's Room all have Strong Riposte.
+* Kaze now carries a Kaze's Needle and has Lunge, Savage Blow, and Elbow Room.
+* Rinkah now carries a silver mace and a bolt axe and has Countermagic and Seal Magic.
+* Two of the oni in Rinkah's room have been replaced with diviners.
+* Azama has Staff Savant.
+* Two of the diviners in Azama's room have been replaced with oni.
+* Hinoka now has Bold Stance and Sol, and is paired with an Oni Savage.
+* The enemies in Hinoka's room all carry silver weapons.
