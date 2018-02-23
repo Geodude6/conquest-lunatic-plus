@@ -46,6 +46,7 @@ Ctrl-F the string next to the list item (including brackets) to jump to that sec
 
 Character Changes [CHARA]
 Class Changes [CLASS]
+Item Changes [ITEM]
 Chapter Changes [CHAPT]
 
 
@@ -55,7 +56,13 @@ Character Changes: [CHAR]
 
 Odin can now wield Missiletainn.
 Mozu gains +20% to all growth rates.
+Laslow gains +2 to his base Strength and comes equipped with a killing edge.
+Peri gains a +20% Magic growth and +4 to her base Magic.
 Kana, Siegbert, and Forrest can now wield Yato, Siegfried, and Brynhildr respectively. (Shiro and Kiragi can also wield Raijinto and Fujin Yumi respectively if they are hacked into the game.)
+Marth now has Chivalry as a personal skill, and now possesses Cavalier and Sky Knight as reclass options.
+Ike now has Vendetta as a personal skill, and now possesses Mercenary and Samurai as reclass options.
+Lucina now has Noble Cause as a personal skill, and now possesses Cavalier and Archer as reclass options.
+Robin now has Perspicacious as a personal skill, and now possesses Dark Mage and Troubadour as reclass options.
 
 
 
@@ -63,6 +70,14 @@ Class Changes: [CLASS]
 
 The villager has had its bases and growths boosted to match that of the Spear Fighter.
 Nohr Noble can now attain up to S rank with stones. (Hoshido Noble can also attain S rank if hacked into the game.)
+Dark mages and sorcerers have +2 to their base speed and defense.
+Dark knights can now use dark magic.
+
+
+Item Changes: [ITEM]
+
+Bolverk and Skadi now lower every stat by 4 on a successful hit.
+Nosferatu can now crit (at -20% crit rate) and activate special skills, but also makes it easier for the enemy to double attack.
 
 
 Chapter Changes: [CHAP]
@@ -127,3 +142,17 @@ Chapter 11: Rainbow Sage
 * Two of the diviners in Azama's room have been replaced with oni.
 * Hinoka now has Bold Stance and Sol, and is paired with an Oni Savage.
 * The enemies in Hinoka's room all carry silver weapons.
+
+Chapter 12:
+* Ryoma now has Immune Status and Rally Spectrum, and drops Dragon Herbs when defeated.
+* Saizo and Kagero now have Movement +1 and Inevitable End. They also carry silver shuriken.
+* There are now two Apothecary pairs with Bold Stance and Silver Hankyu.
+* The kodachi samurai near Ryoma now carry steel kukri instead.
+
+
+Chapter 2x: Dragon Blood
+* The boss has Savage Blow, Armored Blow, and Rend Heaven (100% activation).
+* Lloyd and Llewellyn both have Good Fortune and Certain Blow.
+* The prepromoted enemies have the appropriate 1-2 range weapons.
+* The unpromoted samurai and spear fighters have been replaced with mercenaries and knights for the purposes of unit diversity.
+* The skills Counter, Pass, Vantage, Luna, Pavise, and Aegis have been distributed to enemies somewhat randomly.
